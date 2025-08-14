@@ -75,7 +75,7 @@ Get your local copy up and running in a few simple steps.
 1.  (Optional) Customize the word lists by editing the `.txt` files in the `data/` directory.
 2.  Run the main script from your terminal:
     ```sh
-    python main.py
+    python index.py
     ```
 3.  Follow the on-screen prompts to select your desired username style and transformations.
 
