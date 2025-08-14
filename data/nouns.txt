@@ -1,0 +1,10 @@
+Phoenix
+Dragon
+Specter
+Wolf
+Lion
+Jaguar
+Puma
+Viper
+Warden
+Knight
